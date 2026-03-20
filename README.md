@@ -173,3 +173,5 @@ Each layer independently contributes to identifying fraud, ensuring resilience a
 * Cross-platform fraud intelligence sharing
 
 ---
+## 💡 Key Insight
+This system avoids relying on a single point of failure by combining multiple independent verification layers, making it resilient against coordinated adversarial attacks.
